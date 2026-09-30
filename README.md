@@ -38,6 +38,11 @@ An interaction requirement combines an Action, an Object, and a Context. Each pa
 
 For the full definitions and the conditions governing each variant, see the [pattern collection PDF](RPA_UI_Interaction_Patterns%20%281%29.pdf).
 
+As we continue advancing this research, we are eager to gather insights from practitioners, researchers, and RPA developers. If you design, build, or manage software bots, we would love your input!
+
+👉 Participate in our survey over understandability, problem occurrence, solution appropriateness, and pattern collection completeness here: [QUT Survey Link](https://qsurvey.qut.edu.au/jfe/form/SV_bNKBHkrLyYHXi8m)
+
+
 ## Recommendation prototype
 
 The [RPA UI Log Analyzer](https://github.com/chester713/rpa-ui-log-analyzer) demonstrates how the patterns can guide automation-Method recommendations from recorded UI interaction logs. Its approach has two stages:
