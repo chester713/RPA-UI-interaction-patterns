@@ -4,7 +4,7 @@ A vendor-independent collection of 13 user interface (UI) interaction patterns f
 
 ## Explore the research
 
-- **[Read the full pattern collection (PDF)](RPA_UI_Interaction_Patterns%20%281%29.pdf)** — pattern descriptions, motivations, variants, applicability conditions, operations, and examples.
+- **[Read the full pattern collection (PDF)](https://github.com/chester713/RPA-UI-interaction-patterns/blob/main/RPA_UI_Interaction_Patterns%20(2).pdf)** — pattern descriptions, motivations, variants, applicability conditions, operations, and examples.
 - **[Inspect the prototype source code](https://github.com/chester713/rpa-ui-log-analyzer)** — the RPA UI Log Analyzer, a research prototype demonstrating a pattern-guided recommendation approach, with setup instructions and a sample UI event log.
 
 ## About the patterns
